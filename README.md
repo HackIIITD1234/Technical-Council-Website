@@ -1,13 +1,13 @@
 # Technical-Council-Website
 
 
-This is just a skeleton of the website and more things can be added
+**This is just a skeleton of the website and more things can be added
 <br>
-this can be further customsied and enhanced
+**this can be further customsied and enhanced
 <br>
-In each page, I have left it blank, but elements can be added
+**In each page, I have left it blank, but elements can be added
 <br>
-Index.html is the file to open first
+**Index.html is the file to open first
 <br>
 -----------------------------------------------------------------
 <br>
