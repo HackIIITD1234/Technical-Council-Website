@@ -3,7 +3,7 @@
 
 **This is just a skeleton of the website and more things can be added
 <br>
-**this can be further customsied and enhanced
+**this can be further customised and enhanced
 <br>
 **In each page, I have left it blank, but elements can be added
 <br>
